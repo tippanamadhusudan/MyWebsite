@@ -1,0 +1,14 @@
+img {
+    float: left;
+    margin-right: 1%;
+    padding-right: 1%;
+}
+
+.d {
+    overflow: auto;
+    background-color: cadetblue;
+    margin: 1%;
+}
+.details {
+    color: cornsilk;
+}
