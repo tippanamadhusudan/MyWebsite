@@ -1,7 +1,9 @@
 img {
-    float: left;
-    margin-right: 1%;
-    padding-right: 1%;
+    float: right;
+    margin-left: 1%;
+    padding-left: 1%;
+    width: 40%;
+    height: auto;
 }
 
 .d {
@@ -11,4 +13,5 @@ img {
 }
 .details {
     color: cornsilk;
+    padding-left: 1%;
 }
