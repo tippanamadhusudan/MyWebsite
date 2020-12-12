@@ -14,10 +14,6 @@ li {
     border-right: 1px solid rgb(77, 76, 76);
 }
 
-#contact {
-    float: right;
-}
-
 li a {
     display: block;
     padding: 14px 40px;
@@ -29,7 +25,7 @@ li a {
 }
 
 li a:hover {
-    background-color: black;
+    background-color: rgb(49, 54, 42);
 }
 
 .active {
